@@ -58517,7 +58517,7 @@ s($,"atZ","agn",function(){return new D.Mt()})
 r($,"arp","aeT",function(){return P.ln("^[\\w!#%&'*+\\-.^`|~]+$",!0)})
 s($,"auc","a9d",function(){return H.a([S.nF("Northern Summer Camp 2016","assets/images/prizes/1.JPG"),S.nF("Northern Summer Camp 2017","assets/images/prizes/2.JPG"),S.nF("Award ranked 3rd National","assets/images/prizes/3.JPG"),S.nF("Merit by Minister","assets/images/prizes/4.JPG"),S.nF("Talent scholarships","assets/images/prizes/5.JPG"),S.nF("JLPT N3","assets/images/prizes/6.JPG"),S.nF("AI Course by Sun*","assets/images/prizes/7.JPG")],H.T("p<C9>"))})
 s($,"aud","a9e",function(){var q="Remake Game"
-return H.a([K.lm("Menu remake","assets/images/projects/1.PNG"),K.lm("Pick map remake","assets/images/projects/2.PNG"),K.lm("Game interface","assets/images/projects/3.PNG"),K.lm("Stack structure","assets/images/projects/4.PNG"),K.lm("Stopped released","assets/images/projects/5.jpg"),K.lm("Made by Nexon","assets/images/projects/6.jpg"),K.lm(q,"assets/images/projects/7.PNG"),K.lm(q,"assets/images/projects/8.PNG")],H.T("p<Cc>"))})
+return H.a([K.lm("Menu remake","assets/images/projects/1.jpg"),K.lm("Pick map remake","assets/images/projects/2.jpg"),K.lm("Game interface","assets/images/projects/3.jpg"),K.lm("Stack structure","assets/images/projects/4.jpg"),K.lm("Stopped released","assets/images/projects/5.jpg"),K.lm("Made by Nexon","assets/images/projects/6.jpg"),K.lm(q,"assets/images/projects/7.jpg"),K.lm(q,"assets/images/projects/8.jpg")],H.T("p<Cc>"))})
 r($,"asB","a9_",function(){return new P.v()})
 s($,"amY","a8Z",function(){return new F.SN($.a9_())})
 r($,"asC","afz",function(){return P.ct(["http","https"],t.N).a0h(C.jU)})})();(function nativeSupport(){!function(){var s=function(a){var m={}
