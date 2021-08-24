@@ -4,14 +4,14 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "b521a3ea70b60e5656d8ee98d36a6151",
-"index.html": "d1b93d1d28fcb3cdab25775ad60738db",
-"/": "d1b93d1d28fcb3cdab25775ad60738db",
-"main.dart.js": "5e63055ad99b5f497dc9f37475bbf473",
+"index.html": "07bafb0a13aea67fafe7e12ed16aa69c",
+"/": "07bafb0a13aea67fafe7e12ed16aa69c",
+"main.dart.js": "a532414c9a558d1ed342592f05229f68",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "37ed397a52522510e50ad73ec96d77bf",
-"assets/AssetManifest.json": "f9f60e15b6ea223134f6420d4c259b4e",
+"assets/AssetManifest.json": "1591ccf3cdebee96b0206f5878608abf",
 "assets/NOTICES": "b488583ee83b37eeee434f213c5e96fd",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -19,8 +19,8 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "eaed33dc9678381a55cb5c13edaf241d",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "3241d1d9c15448a4da96df05f3292ffe",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/assets/images/quotes/archive.png": "fd17cbab50c99dc11cf665d953d2754a",
 "assets/assets/images/quotes/introduce.png": "1d458fcf074f3eb53a7cf5ee1e6edfc8",
+"assets/assets/images/quotes/achieve.png": "fd17cbab50c99dc11cf665d953d2754a",
 "assets/assets/images/quotes/ability.png": "ca32a3e15dd3e6a460e9270d51a00774",
 "assets/assets/images/projects/Database/2.jpg": "bc65b5652c658fc1a04998cae812201e",
 "assets/assets/images/projects/Database/1.jpg": "e44cf119adf29736316cb9138cb1ed1d",
@@ -60,7 +60,7 @@ const RESOURCES = {
 "assets/assets/images/prizes/1.JPG": "5d2f1f667fdc6e1a2eb99941aa59a8c9",
 "assets/assets/images/prizes/0.JPG": "63c4d5cb9f87912969bd92bb39c24377",
 "assets/assets/lotties/ui.json": "2a0472904ed7c6e07ff3e51cecc063a6",
-"assets/assets/videos/hello_1.mp4": "44b400c31eeead716a506d006054bfad"
+"assets/assets/videos/hello_1.mp4": "262a510883574e23e47e14d564c2cbbe"
 };
 
 // The application shell files that are downloaded before a service worker can
